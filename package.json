@@ -23,6 +23,6 @@
   },
   "homepage": "https://github.com/exlinc/keycloak-passport#readme",
   "dependencies": {
-    "passport-oauth2": "^1.4.0"
+    "passport-oauth2": "^1.5.0"
   }
 }
